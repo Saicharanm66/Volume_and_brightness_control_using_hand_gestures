@@ -3,9 +3,7 @@ import numpy as np
 from ctypes import cast, POINTER
 from comtypes import CLSCTX_ALL
 from pycaw.pycaw import AudioUtilities, IAudioEndpointVolume
-import numpy as np
 from cvzone.HandTrackingModule import HandDetector
-import cv2
 from math import hypot
 import screen_brightness_control as sbc
 
