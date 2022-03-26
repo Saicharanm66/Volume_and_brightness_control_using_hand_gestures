@@ -3,3 +3,4 @@ numpy
 comtypes
 pycaw
 screen_brightness_control
+mediapipe
