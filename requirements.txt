@@ -1,11 +1,5 @@
 opencv-python
-time
-os
 numpy
-ctypes
 comtypes
 pycaw
-cvzone.HandTrackingModule
-math
 screen_brightness_control
-win10toast
