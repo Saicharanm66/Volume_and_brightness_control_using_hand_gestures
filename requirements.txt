@@ -1,0 +1,11 @@
+cv2
+time
+os
+numpy
+ctypes
+comtypes
+pycaw.pycaw
+cvzone.HandTrackingModule
+math
+screen_brightness_control
+win10toast
